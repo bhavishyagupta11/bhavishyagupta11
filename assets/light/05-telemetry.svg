@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 300" width="100%" height="100%">
+  <rect width="920" height="300" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+  
+    <!-- SECTION HEADER: 04 TELEMETRY -->
+    <text x="24" y="36" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="28" font-weight="900" fill="#000000" letter-spacing="1.5">04</text>
+    <text x="88" y="32" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="12" font-weight="700" fill="#000000" letter-spacing="4">TELEMETRY</text>
+    <line x1="240" y1="28" x2="750.0" y2="28" stroke="#d0d7de" stroke-width="0.9" />
+    <text x="876" y="29" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10.5" fill="#57606a" letter-spacing="1">~/04-telemetry</text>
+    
+
+  <text x="24" y="60" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" fill="#8c959f" letter-spacing="1.5">TELEMETRY &mdash; MEASURABLE ENGINEERING SNAPSHOT</text>
+  <text x="896" y="60" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" fill="#8c959f" letter-spacing="1">FIG. 02</text>
+  <line x1="24" y1="68" x2="896" y2="68" stroke="#e1e4e8" stroke-width="0.8" />
+
+  <!-- Left Column: Primary Languages -->
+  <g transform="translate(24, 84)">
+    <text x="0" y="14" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#8c959f" letter-spacing="1.5">PRIMARY STACK LANGUAGES</text>
+    
+    <text x="0" y="38" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="11" font-weight="600" fill="#1f2328">C++ &bull; Java &bull; Python</text>
+    <text x="0" y="56" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10" fill="#57606a">Core problem solving &bull; AI/ML pipelines</text>
+    <line x1="0" y1="66" x2="250" y2="66" stroke="#e1e4e8" stroke-width="0.6" />
+
+    <text x="0" y="86" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="11" font-weight="600" fill="#1f2328">JavaScript &bull; TypeScript</text>
+    <text x="0" y="104" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10" fill="#57606a">React &bull; Node.js &bull; Full-Stack systems</text>
+    <line x1="0" y1="114" x2="250" y2="114" stroke="#e1e4e8" stroke-width="0.6" />
+
+    <text x="0" y="134" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="11" font-weight="600" fill="#1f2328">C &bull; SQL &bull; JSON Schema</text>
+    <text x="0" y="152" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10" fill="#57606a">Low-level concepts &bull; Relational data</text>
+  </g>
+
+  <!-- Middle Column: Big Verified Metrics -->
+  <g transform="translate(320, 84)">
+    <text x="0" y="14" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#8c959f" letter-spacing="1.5">VERIFIED SNAPSHOT METRICS</text>
+
+    <!-- Row 1: DSA -->
+    <text x="0" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="30" font-weight="900" fill="#1f2328">810+</text>
+    <text x="90" y="36" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#57606a">DSA PROBLEMS SOLVED</text>
+    <text x="90" y="49" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">LeetCode &bull; GFG &bull; Code360</text>
+
+    <!-- Row 2: CGPA -->
+    <text x="0" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="30" font-weight="900" fill="#0969da">9.23</text>
+    <text x="90" y="82" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#57606a">CUMULATIVE GPA / 10.0</text>
+    <text x="90" y="95" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">JECRC University (AI &amp; ML)</text>
+
+    <!-- Row 3: Contest Rating -->
+    <text x="0" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="30" font-weight="900" fill="#1a7f37">1779</text>
+    <text x="90" y="128" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#57606a">LEETCODE CONTEST RATING</text>
+    <text x="90" y="141" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">Top ~12% Global Percentile</text>
+  </g>
+
+  <!-- Right Column: Verification & Ecosystem Focus -->
+  <g transform="translate(620, 84)">
+    <text x="0" y="14" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#8c959f" letter-spacing="1.5">CORE REPOSITORY DOMAINS</text>
+    
+    <rect x="0" y="28" width="276" height="124" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+    <text x="14" y="50" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#1f2328">&bull; Full-Stack Media Platforms</text>
+    <text x="14" y="66" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#57606a">Docker &bull; Redis &bull; BullMQ &bull; Socket.io</text>
+
+    <text x="14" y="88" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#1f2328">&bull; Academic &amp; Approval Systems</text>
+    <text x="14" y="104" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#57606a">RBAC &bull; 6-Pipeline Automated Engine</text>
+
+    <text x="14" y="126" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#1f2328">&bull; Multi-Agent RAG Assistants</text>
+    <text x="14" y="142" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#57606a">Ollama &bull; TF-IDF + MMR &bull; Zod Validation</text>
+  </g>
+
+  <!-- Bottom Instrument Bar -->
+  <g transform="translate(24, 252)">
+    <rect width="872" height="34" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+    <text x="14" y="21" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#57606a">GITHUB HANDLE: @bhavishyagupta11</text>
+    <text x="858" y="21" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#1a7f37">ALL METRICS SOURCED FROM RESUME</text>
+  </g>
+</svg>

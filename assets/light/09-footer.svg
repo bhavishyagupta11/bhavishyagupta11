@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 60" width="100%" height="100%">
+  <line x1="0" y1="1" x2="920" y2="1" stroke="#d0d7de" stroke-width="1" />
+  
+  <!-- Left Status -->
+  <circle cx="28" cy="32" r="3.5" fill="#1a7f37" />
+  <text x="40" y="36" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10.5" font-weight="600" fill="#1f2328" letter-spacing="1.5">STATUS &mdash; BUILDING</text>
+
+  <!-- Right Metadata -->
+  <text x="896" y="36" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10" fill="#57606a" letter-spacing="1">
+    bhavishyagupta001@gmail.com &bull; Jaipur, IN &bull; &copy; 2027
+  </text>
+</svg>

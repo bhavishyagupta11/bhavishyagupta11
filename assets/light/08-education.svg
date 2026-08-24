@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 230" width="100%" height="100%">
+  <rect width="920" height="230" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+  
+    <!-- SECTION HEADER: 07 CREDENTIALS -->
+    <text x="24" y="36" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="28" font-weight="900" fill="#000000" letter-spacing="1.5">07</text>
+    <text x="88" y="32" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="12" font-weight="700" fill="#000000" letter-spacing="4">CREDENTIALS</text>
+    <line x1="240" y1="28" x2="735.0" y2="28" stroke="#d0d7de" stroke-width="0.9" />
+    <text x="876" y="29" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10.5" fill="#57606a" letter-spacing="1">~/07-credentials</text>
+    
+
+  <!-- Education Main Block -->
+  <g transform="translate(24, 60)">
+    <text x="0" y="16" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#8c959f" letter-spacing="1.5">UNIVERSITY DEGREE</text>
+    <text x="170" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#1f2328">Bachelor of Technology (B.Tech) &mdash; Computer Science (AI &amp; ML)</text>
+    <text x="170" y="32" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10" fill="#0969da">JECRC UNIVERSITY, JAIPUR &bull; 2023 &ndash; 2027 &bull; CGPA: 9.23 / 10.0</text>
+    <line x1="0" y1="44" x2="872" y2="44" stroke="#e1e4e8" stroke-width="0.8" />
+  </g>
+
+  <!-- Certifications Row -->
+  <g transform="translate(24, 120)">
+    <text x="0" y="16" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#8c959f" letter-spacing="1.5">CERTIFICATIONS</text>
+    <text x="170" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#1f2328">
+      &bull; ServiceNow Certified System Administrator (CSA) &bull; ServiceNow Certified Application Developer (CAD) [Jun 2026]
+    </text>
+    <text x="170" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">
+      &bull; McKinsey Forward Program Certified (McKinsey &amp; Company) [Jun 2026] &bull; Google Cloud Foundation
+    </text>
+    <line x1="0" y1="44" x2="872" y2="44" stroke="#e1e4e8" stroke-width="0.8" />
+  </g>
+
+  <!-- Competitions & Achievements -->
+  <g transform="translate(24, 180)">
+    <text x="0" y="16" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#8c959f" letter-spacing="1.5">ACHIEVEMENTS</text>
+    <text x="170" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#1f2328">
+      &bull; 🏆 Winner &mdash; CodeHunt (JECRC University): Ranked 1st of 25 teams in 3-stage coding &amp; logic competition.
+    </text>
+    <text x="170" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">
+      &bull; Finalist &mdash; CodeAThon 1.0: Top 10 of 500 participants across 2 rounds solving medium DSA problems.
+    </text>
+  </g>
+</svg>

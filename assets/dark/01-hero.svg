@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 230" width="100%" height="100%">
+  <defs>
+    <style>
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+      .live-pulse { animation: blink 2s infinite ease-in-out; }
+    </style>
+  </defs>
+  
+  <rect width="920" height="230" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+
+  <!-- Top System Bar -->
+  <line x1="24" y1="36" x2="896" y2="36" stroke="#21262d" stroke-width="0.8" />
+  <text x="24" y="24" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="600" fill="#8b949e" letter-spacing="2">ENGINEERING DOSSIER &mdash; BHAVISHYA GUPTA</text>
+  <circle cx="830" cy="21" r="3.5" fill="#39d353" class="live-pulse" />
+  <text x="896" y="24" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="600" fill="#39d353" letter-spacing="1.5">STATUS: BUILDING</text>
+
+  <!-- Hero Name -->
+  <text x="24" y="86" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="36" font-weight="900" fill="#f0f6fc" letter-spacing="3">BHAVISHYA GUPTA</text>
+  
+  <!-- Subtitle / Identity -->
+  <text x="24" y="112" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="12" font-weight="600" fill="#00d4ff" letter-spacing="2">COMPUTER SCIENCE &amp; ENGINEERING &mdash; AI &amp; ML</text>
+  <text x="24" y="128" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10.5" fill="#8b949e" letter-spacing="1">JECRC UNIVERSITY &bull; JAIPUR, INDIA &bull; CLASS OF 2027</text>
+
+  <!-- Technical Positioning -->
+  <text x="24" y="158" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12.5" fill="#f0f6fc" letter-spacing="0.3">
+    Computer Science undergraduate building full-stack web platforms, distributed backend services, and practical AI/ML systems.
+  </text>
+  <text x="24" y="176" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">
+    Focusing on resilient system architecture, asynchronous processing, and deep algorithmic problem solving (810+ DSA solved).
+  </text>
+
+  <!-- Bottom Metadata Pills -->
+  <line x1="24" y1="192" x2="896" y2="192" stroke="#21262d" stroke-width="0.8" />
+  <text x="24" y="212" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#6e7681" letter-spacing="1.5">FOCUS</text>
+  <text x="74" y="212" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="600" fill="#f0f6fc" letter-spacing="1">FULL-STACK &bull; BACKEND &bull; AI/ML &bull; DSA &bull; SYSTEMS</text>
+  
+  <text x="590" y="212" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#6e7681" letter-spacing="1.5">CGPA</text>
+  <text x="632" y="212" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#00d4ff">9.23 / 10.0</text>
+
+  <text x="740" y="212" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#6e7681" letter-spacing="1.5">DSA METRIC</text>
+  <text x="826" y="212" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#39d353">810+ SOLVED</text>
+</svg>

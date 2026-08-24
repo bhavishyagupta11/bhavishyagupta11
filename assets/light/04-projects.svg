@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 360" width="100%" height="100%">
+  <rect width="920" height="360" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+  
+    <!-- SECTION HEADER: 03 PROJECTS -->
+    <text x="24" y="36" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="28" font-weight="900" fill="#000000" letter-spacing="1.5">03</text>
+    <text x="88" y="32" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="12" font-weight="700" fill="#000000" letter-spacing="4">PROJECTS</text>
+    <line x1="240" y1="28" x2="757.5" y2="28" stroke="#d0d7de" stroke-width="0.9" />
+    <text x="876" y="29" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10.5" fill="#57606a" letter-spacing="1">~/03-projects</text>
+    
+
+  <!-- Project 01: FutureMedia -->
+  <g transform="translate(24, 60)">
+    <text x="0" y="16" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="13" font-weight="800" fill="#1f2328" letter-spacing="1.5">01 / FUTUREMEDIA</text>
+    <text x="872" y="16" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#1a7f37">[ LIVE DEMO &bull; REPO ]</text>
+    
+    <text x="0" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2328">
+      Architected a hybrid full-stack social media platform with 40+ REST API endpoints and 6 core collections.
+    </text>
+    <text x="0" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11.5" fill="#57606a">
+      Containerized 5 services using Docker Compose, implemented Redis-backed BullMQ for async queue processing, and enabled real-time messaging via Socket.io. Secured across 6+ layers with JWT and RBAC. Built an 8-page app with 9+ components and CI/CD via GitHub Actions.
+    </text>
+    
+    <text x="0" y="74" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#8c959f">
+      REACT.JS &bull; NODE.JS &bull; EXPRESS.JS &bull; MONGODB &bull; SOCKET.IO &bull; REDIS &bull; BULLMQ &bull; DOCKER &bull; CLOUDINARY &bull; GITHUB ACTIONS
+    </text>
+    <line x1="0" y1="88" x2="872" y2="88" stroke="#e1e4e8" stroke-width="0.8" />
+  </g>
+
+  <!-- Project 02: ScholrBoard -->
+  <g transform="translate(24, 166)">
+    <text x="0" y="16" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="13" font-weight="800" fill="#1f2328" letter-spacing="1.5">02 / SCHOLRBOARD</text>
+    <text x="872" y="16" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#1a7f37">[ LIVE DEMO &bull; PLATFORM ]</text>
+    
+    <text x="0" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2328">
+      Full-stack academic performance and placement platform featuring 3 dashboards and 40+ secured REST APIs.
+    </text>
+    <text x="0" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11.5" fill="#57606a">
+      Engineered a 6-pipeline automated approval ecosystem with 5 automated escalations, persistent audit tracking, and Cloudinary-linked storage. Integrated 4 external services and a track-personalization engine auto-mapping 100% of student records into specialized career tracks.
+    </text>
+    
+    <text x="0" y="74" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#8c959f">
+      REACT.JS &bull; NODE.JS &bull; EXPRESS.JS &bull; MONGODB ATLAS &bull; JWT &bull; CLOUDINARY &bull; NODEMAILER &bull; REST APIS
+    </text>
+    <line x1="0" y1="88" x2="872" y2="88" stroke="#e1e4e8" stroke-width="0.8" />
+  </g>
+
+  <!-- Project 03: CogniFlow -->
+  <g transform="translate(24, 272)">
+    <text x="0" y="16" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="13" font-weight="800" fill="#1f2328" letter-spacing="1.5">03 / COGNIFLOW</text>
+    <text x="872" y="16" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#0969da">[ OPEN SOURCE &bull; REPO ]</text>
+    
+    <text x="0" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2328">
+      Multi-agent RAG research assistant orchestrating 5 cooperating autonomous agents for grounded document synthesis.
+    </text>
+    <text x="0" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11.5" fill="#57606a">
+      Implements a complete pipeline: Query Routing &rarr; Context Retrieval (TF-IDF + MMR) &rarr; Passage Reranking &rarr; Structured Synthesis &rarr; Grounding Verification. Enforces strict JSON schema validation using Zod to eliminate hallucinations across local and remote LLM APIs.
+    </text>
+    
+    <text x="0" y="74" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#8c959f">
+      NEXT.JS &bull; TYPESCRIPT &bull; TAILWIND CSS &bull; SHADCN/UI &bull; RAG &bull; OLLAMA &bull; ZOD &bull; LLM ORCHESTRATION
+    </text>
+  </g>
+</svg>
