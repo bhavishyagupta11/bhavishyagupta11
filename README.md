@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/01-hero.svg" />
-  <img src="./assets/light/01-hero.svg" width="100%" alt="Bhavishya Gupta — Engineering Dossier" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/01-hero.svg" />
+  <img src="assets/light/01-hero.svg" width="100%" alt="Bhavishya Gupta — Engineering Dossier" />
 </picture>
 
 <br />
@@ -14,22 +14,22 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/02-whoami.svg" />
-  <img src="./assets/light/02-whoami.svg" width="100%" alt="01 — WHOAMI" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/02-whoami.svg" />
+  <img src="assets/light/02-whoami.svg" width="100%" alt="01 — WHOAMI" />
 </picture>
 
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/03-system-map.svg" />
-  <img src="./assets/light/03-system-map.svg" width="100%" alt="02 — SYSTEM MAP" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/03-system-map.svg" />
+  <img src="assets/light/03-system-map.svg" width="100%" alt="02 — SYSTEM MAP" />
 </picture>
 
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/04-projects.svg" />
-  <img src="./assets/light/04-projects.svg" width="100%" alt="03 — PROJECTS" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/04-projects.svg" />
+  <img src="assets/light/04-projects.svg" width="100%" alt="03 — PROJECTS" />
 </picture>
 
 <div align="center">
@@ -43,8 +43,8 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/05-telemetry.svg" />
-  <img src="./assets/light/05-telemetry.svg" width="100%" alt="04 — TELEMETRY" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/05-telemetry.svg" />
+  <img src="assets/light/05-telemetry.svg" width="100%" alt="04 — TELEMETRY" />
 </picture>
 
 <div align="center">
@@ -59,29 +59,29 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/06-timeline.svg" />
-  <img src="./assets/light/06-timeline.svg" width="100%" alt="05 — THE ROUTE" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/06-timeline.svg" />
+  <img src="assets/light/06-timeline.svg" width="100%" alt="05 — THE ROUTE" />
 </picture>
 
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/07-stack.svg" />
-  <img src="./assets/light/07-stack.svg" width="100%" alt="06 — STACK" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/07-stack.svg" />
+  <img src="assets/light/07-stack.svg" width="100%" alt="06 — STACK" />
 </picture>
 
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/08-education.svg" />
-  <img src="./assets/light/08-education.svg" width="100%" alt="07 — CREDENTIALS" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/08-education.svg" />
+  <img src="assets/light/08-education.svg" width="100%" alt="07 — CREDENTIALS" />
 </picture>
 
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark/09-footer.svg" />
-  <img src="./assets/light/09-footer.svg" width="100%" alt="STATUS — BUILDING" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/09-footer.svg" />
+  <img src="assets/light/09-footer.svg" width="100%" alt="STATUS — BUILDING" />
 </picture>
 
 <div align="center">

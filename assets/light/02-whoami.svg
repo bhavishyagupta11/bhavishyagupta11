@@ -9,15 +9,15 @@
     
   
         <text x="24" y="72" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#8c959f" letter-spacing="1.5">IDENTITY</text>
-        <text x="170" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#1f2328">Bhavishya Gupta &mdash; Software Engineer / Full Stack Developer &bull; B.Tech CSE (AI & ML)</text>
+        <text x="170" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#1f2328">Bhavishya Gupta — Software Engineer / Full Stack Developer • B.Tech CSE (AI &amp; ML)</text>
         <line x1="24" y1="82" x2="896" y2="82" stroke="#e1e4e8" stroke-width="0.6" />
         
         <text x="24" y="96" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#8c959f" letter-spacing="1.5">EDUCATION</text>
-        <text x="170" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#1f2328">JECRC University, Jaipur (2023 &rarr; 2027) &bull; Cumulative GPA: 9.23 / 10.0</text>
+        <text x="170" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#1f2328">JECRC University, Jaipur (2023 → 2027) • Cumulative GPA: 9.23 / 10.0</text>
         <line x1="24" y1="106" x2="896" y2="106" stroke="#e1e4e8" stroke-width="0.6" />
         
         <text x="24" y="120" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#8c959f" letter-spacing="1.5">LOCATION</text>
-        <text x="170" y="120" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#1f2328">Jaipur, Rajasthan, India &bull; Open to engineering internships & full-time software roles</text>
+        <text x="170" y="120" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#1f2328">Jaipur, Rajasthan, India • Open to engineering internships &amp; full-time software roles</text>
         <line x1="24" y1="130" x2="896" y2="130" stroke="#e1e4e8" stroke-width="0.6" />
         
         <text x="24" y="144" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#8c959f" letter-spacing="1.5">PRIMARY FOCUS</text>
@@ -25,15 +25,15 @@
         <line x1="24" y1="154" x2="896" y2="154" stroke="#e1e4e8" stroke-width="0.6" />
         
         <text x="24" y="168" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#8c959f" letter-spacing="1.5">PROBLEM SOLVING</text>
-        <text x="170" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#1f2328">810+ DSA Problems Solved &bull; LeetCode (1779 Contest Rating) &bull; Code360 (1506 Rating) &bull; GFG (120+)</text>
+        <text x="170" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#1f2328">810+ DSA Problems Solved • LeetCode (1779 Contest Rating) • Code360 (1506 Rating) • GFG (120+)</text>
         <line x1="24" y1="178" x2="896" y2="178" stroke="#e1e4e8" stroke-width="0.6" />
         
         <text x="24" y="192" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#8c959f" letter-spacing="1.5">AI / ML FOCUS</text>
-        <text x="170" y="192" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#1f2328">Multi-Agent RAG Pipelines, TF-IDF + MMR Context Retrieval, LLM Grounding & Guardrails (Ollama)</text>
+        <text x="170" y="192" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#1f2328">Multi-Agent RAG Pipelines, TF-IDF + MMR Context Retrieval, LLM Grounding &amp; Guardrails (Ollama)</text>
         <line x1="24" y1="202" x2="896" y2="202" stroke="#e1e4e8" stroke-width="0.6" />
         
         <text x="24" y="216" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#8c959f" letter-spacing="1.5">EXPERIENCE</text>
-        <text x="170" y="216" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#1f2328">Software Development Intern @ Ghai Technologies Private Limited (Feb 2026 &ndash; Jul 2026)</text>
+        <text x="170" y="216" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#1f2328">Software Development Intern @ Ghai Technologies Private Limited (Feb 2026 – Jul 2026)</text>
         <line x1="24" y1="226" x2="896" y2="226" stroke="#e1e4e8" stroke-width="0.6" />
         
 </svg>
