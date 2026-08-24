@@ -38,7 +38,7 @@
     <text x="90" y="49" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#6e7681">LeetCode • GFG • Code360</text>
 
     <!-- Row 2: CGPA -->
-    <text x="0" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="30" font-weight="900" fill="#00d4ff">9.23</text>
+    <text x="0" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="30" font-weight="900" fill="#00d4ff">9.30</text>
     <text x="90" y="82" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#8b949e">CUMULATIVE GPA / 10.0</text>
     <text x="90" y="95" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#6e7681">JECRC University (AI &amp; ML)</text>
 

@@ -7,7 +7,7 @@
 
 <br />
 
-[PORTFOLIO](https://bhavishyaguptaportfolio.netlify.app/) &nbsp;&bull;&nbsp; [RESUME](https://bhavishyaguptaportfolio.netlify.app/assets/Bhavishya_Gupta_Resume.pdf) &nbsp;&bull;&nbsp; [GITHUB](https://github.com/bhavishyagupta11) &nbsp;&bull;&nbsp; [LINKEDIN](https://www.linkedin.com/in/bhavishyagupta001/) &nbsp;&bull;&nbsp; [EMAIL](mailto:bhavishyagupta001@gmail.com)
+[PORTFOLIO](https://bhavishyaguptaportfolio.vercel.app/) &nbsp;&bull;&nbsp; [RESUME](https://drive.google.com/file/d/10qlp4Rb06sMygUF-R4IvFqDeQ-qwA706/view?usp=drive_link) &nbsp;&bull;&nbsp; [GITHUB](https://github.com/bhavishyagupta11) &nbsp;&bull;&nbsp; [LINKEDIN](https://www.linkedin.com/in/bhavishyagupta001/) &nbsp;&bull;&nbsp; [EMAIL](mailto:bhavishyagupta001@gmail.com)
 
 </div>
 
@@ -86,6 +86,6 @@
 
 <div align="center">
 
-[PORTFOLIO](https://bhavishyaguptaportfolio.netlify.app/) &nbsp;&bull;&nbsp; [RESUME](https://bhavishyaguptaportfolio.netlify.app/assets/Bhavishya_Gupta_Resume.pdf) &nbsp;&bull;&nbsp; [GITHUB](https://github.com/bhavishyagupta11) &nbsp;&bull;&nbsp; [LINKEDIN](https://www.linkedin.com/in/bhavishyagupta001/) &nbsp;&bull;&nbsp; [EMAIL](mailto:bhavishyagupta001@gmail.com)
+[PORTFOLIO](https://bhavishyaguptaportfolio.vercel.app/) &nbsp;&bull;&nbsp; [RESUME](https://drive.google.com/file/d/10qlp4Rb06sMygUF-R4IvFqDeQ-qwA706/view?usp=drive_link) &nbsp;&bull;&nbsp; [GITHUB](https://github.com/bhavishyagupta11) &nbsp;&bull;&nbsp; [LINKEDIN](https://www.linkedin.com/in/bhavishyagupta001/) &nbsp;&bull;&nbsp; [EMAIL](mailto:bhavishyagupta001@gmail.com)
 
 </div>
