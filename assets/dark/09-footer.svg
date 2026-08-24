@@ -3,10 +3,10 @@
   
   <!-- Left Status -->
   <circle cx="28" cy="32" r="3.5" fill="#39d353" />
-  <text x="40" y="36" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10.5" font-weight="600" fill="#f0f6fc" letter-spacing="1.5">STATUS &mdash; BUILDING</text>
+  <text x="40" y="36" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10.5" font-weight="600" fill="#f0f6fc" letter-spacing="1.5">STATUS — BUILDING</text>
 
   <!-- Right Metadata -->
   <text x="896" y="36" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10" fill="#8b949e" letter-spacing="1">
-    bhavishyagupta001@gmail.com &bull; Jaipur, IN &bull; &copy; 2027
+    bhavishyagupta001@gmail.com • Jaipur, IN • © 2027
   </text>
 </svg>

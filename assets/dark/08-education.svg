@@ -11,8 +11,8 @@
   <!-- Education Main Block -->
   <g transform="translate(24, 60)">
     <text x="0" y="16" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#6e7681" letter-spacing="1.5">UNIVERSITY DEGREE</text>
-    <text x="170" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#f0f6fc">Bachelor of Technology (B.Tech) &mdash; Computer Science (AI &amp; ML)</text>
-    <text x="170" y="32" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10" fill="#00d4ff">JECRC UNIVERSITY, JAIPUR &bull; 2023 &ndash; 2027 &bull; CGPA: 9.23 / 10.0</text>
+    <text x="170" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#f0f6fc">Bachelor of Technology (B.Tech) — Computer Science (AI &amp; ML)</text>
+    <text x="170" y="32" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10" fill="#00d4ff">JECRC UNIVERSITY, JAIPUR • 2023 – 2027 • CGPA: 9.23 / 10.0</text>
     <line x1="0" y1="44" x2="872" y2="44" stroke="#21262d" stroke-width="0.8" />
   </g>
 
@@ -20,10 +20,10 @@
   <g transform="translate(24, 120)">
     <text x="0" y="16" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#6e7681" letter-spacing="1.5">CERTIFICATIONS</text>
     <text x="170" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#f0f6fc">
-      &bull; ServiceNow Certified System Administrator (CSA) &bull; ServiceNow Certified Application Developer (CAD) [Jun 2026]
+      • ServiceNow Certified System Administrator (CSA) • ServiceNow Certified Application Developer (CAD) [Jun 2026]
     </text>
     <text x="170" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">
-      &bull; McKinsey Forward Program Certified (McKinsey &amp; Company) [Jun 2026] &bull; Google Cloud Foundation
+      • McKinsey Forward Program Certified (McKinsey &amp; Company) [Jun 2026] • Google Cloud Foundation
     </text>
     <line x1="0" y1="44" x2="872" y2="44" stroke="#21262d" stroke-width="0.8" />
   </g>
@@ -32,10 +32,10 @@
   <g transform="translate(24, 180)">
     <text x="0" y="16" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#6e7681" letter-spacing="1.5">ACHIEVEMENTS</text>
     <text x="170" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#f0f6fc">
-      &bull; 🏆 Winner &mdash; CodeHunt (JECRC University): Ranked 1st of 25 teams in 3-stage coding &amp; logic competition.
+      • 🏆 Winner — CodeHunt (JECRC University): Ranked 1st of 25 teams in 3-stage coding &amp; logic competition.
     </text>
     <text x="170" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">
-      &bull; Finalist &mdash; CodeAThon 1.0: Top 10 of 500 participants across 2 rounds solving medium DSA problems.
+      • Finalist — CodeAThon 1.0: Top 10 of 500 participants across 2 rounds solving medium DSA problems.
     </text>
   </g>
 </svg>
