@@ -11,7 +11,7 @@
   <!-- Project 01: FutureMedia -->
   <g transform="translate(24, 60)">
     <text x="0" y="16" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="13" font-weight="800" fill="#1f2328" letter-spacing="1.5">01 / FUTUREMEDIA</text>
-    <text x="872" y="16" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#1a7f37">[ LIVE DEMO &bull; REPO ]</text>
+    <text x="872" y="16" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#1a7f37">[ LIVE DEMO • REPO ]</text>
     
     <text x="0" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2328">
       Architected a hybrid full-stack social media platform with 40+ REST API endpoints and 6 core collections.
@@ -21,7 +21,7 @@
     </text>
     
     <text x="0" y="74" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#8c959f">
-      REACT.JS &bull; NODE.JS &bull; EXPRESS.JS &bull; MONGODB &bull; SOCKET.IO &bull; REDIS &bull; BULLMQ &bull; DOCKER &bull; CLOUDINARY &bull; GITHUB ACTIONS
+      REACT.JS • NODE.JS • EXPRESS.JS • MONGODB • SOCKET.IO • REDIS • BULLMQ • DOCKER • CLOUDINARY • GITHUB ACTIONS
     </text>
     <line x1="0" y1="88" x2="872" y2="88" stroke="#e1e4e8" stroke-width="0.8" />
   </g>
@@ -29,7 +29,7 @@
   <!-- Project 02: ScholrBoard -->
   <g transform="translate(24, 166)">
     <text x="0" y="16" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="13" font-weight="800" fill="#1f2328" letter-spacing="1.5">02 / SCHOLRBOARD</text>
-    <text x="872" y="16" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#1a7f37">[ LIVE DEMO &bull; PLATFORM ]</text>
+    <text x="872" y="16" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#1a7f37">[ LIVE DEMO • PLATFORM ]</text>
     
     <text x="0" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2328">
       Full-stack academic performance and placement platform featuring 3 dashboards and 40+ secured REST APIs.
@@ -39,7 +39,7 @@
     </text>
     
     <text x="0" y="74" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#8c959f">
-      REACT.JS &bull; NODE.JS &bull; EXPRESS.JS &bull; MONGODB ATLAS &bull; JWT &bull; CLOUDINARY &bull; NODEMAILER &bull; REST APIS
+      REACT.JS • NODE.JS • EXPRESS.JS • MONGODB ATLAS • JWT • CLOUDINARY • NODEMAILER • REST APIS
     </text>
     <line x1="0" y1="88" x2="872" y2="88" stroke="#e1e4e8" stroke-width="0.8" />
   </g>
@@ -47,17 +47,17 @@
   <!-- Project 03: CogniFlow -->
   <g transform="translate(24, 272)">
     <text x="0" y="16" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="13" font-weight="800" fill="#1f2328" letter-spacing="1.5">03 / COGNIFLOW</text>
-    <text x="872" y="16" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#0969da">[ OPEN SOURCE &bull; REPO ]</text>
+    <text x="872" y="16" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#0969da">[ OPEN SOURCE • REPO ]</text>
     
     <text x="0" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2328">
       Multi-agent RAG research assistant orchestrating 5 cooperating autonomous agents for grounded document synthesis.
     </text>
     <text x="0" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11.5" fill="#57606a">
-      Implements a complete pipeline: Query Routing &rarr; Context Retrieval (TF-IDF + MMR) &rarr; Passage Reranking &rarr; Structured Synthesis &rarr; Grounding Verification. Enforces strict JSON schema validation using Zod to eliminate hallucinations across local and remote LLM APIs.
+      Implements a complete pipeline: Query Routing → Context Retrieval (TF-IDF + MMR) → Passage Reranking → Structured Synthesis → Grounding Verification. Enforces strict JSON schema validation using Zod to eliminate hallucinations across local and remote LLM APIs.
     </text>
     
     <text x="0" y="74" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#8c959f">
-      NEXT.JS &bull; TYPESCRIPT &bull; TAILWIND CSS &bull; SHADCN/UI &bull; RAG &bull; OLLAMA &bull; ZOD &bull; LLM ORCHESTRATION
+      NEXT.JS • TYPESCRIPT • TAILWIND CSS • SHADCN/UI • RAG • OLLAMA • ZOD • LLM ORCHESTRATION
     </text>
   </g>
 </svg>

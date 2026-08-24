@@ -8,16 +8,16 @@
     <text x="876" y="29" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10.5" fill="#57606a" letter-spacing="1">~/02-system-map</text>
     
   
-  <text x="24" y="60" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" fill="#8c959f" letter-spacing="1.5">FIG. 01 &mdash; FULL-STACK, ALGORITHMIC &amp; AI WORKFLOW TOPOLOGY</text>
+  <text x="24" y="60" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" fill="#8c959f" letter-spacing="1.5">FIG. 01 — FULL-STACK, ALGORITHMIC &amp; AI WORKFLOW TOPOLOGY</text>
 
   <!-- Flow 1: Full-Stack Pipeline (Horizontal Tier) -->
   <!-- Tier 1: Client Interfaces -->
   <g transform="translate(24, 76)">
     <rect width="195" height="74" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
     <text x="12" y="18" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" font-weight="700" fill="#0969da">01 / CLIENT TIER</text>
-    <text x="12" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2328">React.js &bull; Next.js</text>
-    <text x="12" y="52" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" fill="#57606a">TypeScript &bull; Tailwind CSS</text>
-    <text x="12" y="66" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">Component State &bull; Responsive UI</text>
+    <text x="12" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2328">React.js • Next.js</text>
+    <text x="12" y="52" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" fill="#57606a">TypeScript • Tailwind CSS</text>
+    <text x="12" y="66" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">Component State • Responsive UI</text>
   </g>
 
   <!-- Arrow 1 -> 2 -->
@@ -27,9 +27,9 @@
   <g transform="translate(250, 76)">
     <rect width="195" height="74" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
     <text x="12" y="18" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" font-weight="700" fill="#0969da">02 / API GATEWAY</text>
-    <text x="12" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2328">REST APIs &bull; Socket.io</text>
-    <text x="12" y="52" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" fill="#57606a">JWT Auth &bull; RBAC Guardrails</text>
-    <text x="12" y="66" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">40+ Endpoints &bull; Real-Time Sync</text>
+    <text x="12" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2328">REST APIs • Socket.io</text>
+    <text x="12" y="52" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" fill="#57606a">JWT Auth • RBAC Guardrails</text>
+    <text x="12" y="66" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">40+ Endpoints • Real-Time Sync</text>
   </g>
 
   <!-- Arrow 2 -> 3 -->
@@ -39,9 +39,9 @@
   <g transform="translate(476, 76)">
     <rect width="195" height="74" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
     <text x="12" y="18" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" font-weight="700" fill="#0969da">03 / ASYNC SERVICES</text>
-    <text x="12" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2328">Node.js &bull; Express.js</text>
-    <text x="12" y="52" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" fill="#57606a">Redis &bull; BullMQ Queues</text>
-    <text x="12" y="66" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">Media Processing &bull; Background Tasks</text>
+    <text x="12" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2328">Node.js • Express.js</text>
+    <text x="12" y="52" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" fill="#57606a">Redis • BullMQ Queues</text>
+    <text x="12" y="66" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">Media Processing • Background Tasks</text>
   </g>
 
   <!-- Arrow 3 -> 4 -->
@@ -51,8 +51,8 @@
   <g transform="translate(702, 76)">
     <rect width="194" height="74" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
     <text x="12" y="18" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" font-weight="700" fill="#0969da">04 / DATA &amp; DEVOPS</text>
-    <text x="12" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2328">MongoDB &bull; MySQL &bull; GCP</text>
-    <text x="12" y="52" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" fill="#57606a">Docker Compose &bull; Actions CI</text>
+    <text x="12" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2328">MongoDB • MySQL • GCP</text>
+    <text x="12" y="52" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" fill="#57606a">Docker Compose • Actions CI</text>
     <text x="12" y="66" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">5 Containerized Microservices</text>
   </g>
 
@@ -62,20 +62,20 @@
   <!-- Parallel Branch Left: Algorithmic Rigor -->
   <g transform="translate(24, 180)">
     <rect width="422" height="112" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
-    <text x="14" y="20" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#1a7f37">PARALLEL ENGINE A &mdash; ALGORITHMIC PROBLEM SOLVING</text>
+    <text x="14" y="20" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#1a7f37">PARALLEL ENGINE A — ALGORITHMIC PROBLEM SOLVING</text>
     <text x="14" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#1f2328">810+ DSA Problems Solved Across Platforms</text>
-    <text x="14" y="58" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#57606a">LeetCode (1779 Contest Rating &bull; 629+ Solved &bull; 300+ Day Streak)</text>
-    <text x="14" y="74" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#57606a">GeeksforGeeks (120+ Solved) &bull; Code360 (1506 Rating &bull; 70+ Solved)</text>
-    <text x="14" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="10" fill="#1a7f37">&bull; Focus: Graph Theory, Dynamic Programming, Complexity Optimization, Clean Refactoring</text>
+    <text x="14" y="58" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#57606a">LeetCode (1779 Contest Rating • 629+ Solved • 300+ Day Streak)</text>
+    <text x="14" y="74" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#57606a">GeeksforGeeks (120+ Solved) • Code360 (1506 Rating • 70+ Solved)</text>
+    <text x="14" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="10" fill="#1a7f37">• Focus: Graph Theory, Dynamic Programming, Complexity Optimization, Clean Refactoring</text>
   </g>
 
   <!-- Parallel Branch Right: AI / ML & RAG -->
   <g transform="translate(474, 180)">
     <rect width="422" height="112" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
-    <text x="14" y="20" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#8250df">PARALLEL ENGINE B &mdash; AI &amp; MULTI-AGENT RAG SYSTEMS</text>
+    <text x="14" y="20" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9" font-weight="700" fill="#8250df">PARALLEL ENGINE B — AI &amp; MULTI-AGENT RAG SYSTEMS</text>
     <text x="14" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#1f2328">Grounded Multi-Agent Retrieval Pipelines</text>
-    <text x="14" y="58" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#57606a">5 Cooperating Agents &bull; TF-IDF + MMR Context Retrieval &bull; Reranking</text>
-    <text x="14" y="74" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#57606a">Ollama Local Models &bull; Zod Schema Validation &bull; Scikit-Learn &bull; TensorFlow</text>
-    <text x="14" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="10" fill="#8250df">&bull; Focus: Hallucination Elimination, Structured Synthesis, Grounded Verification</text>
+    <text x="14" y="58" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#57606a">5 Cooperating Agents • TF-IDF + MMR Context Retrieval • Reranking</text>
+    <text x="14" y="74" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#57606a">Ollama Local Models • Zod Schema Validation • Scikit-Learn • TensorFlow</text>
+    <text x="14" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="10" fill="#8250df">• Focus: Hallucination Elimination, Structured Synthesis, Grounded Verification</text>
   </g>
 </svg>
