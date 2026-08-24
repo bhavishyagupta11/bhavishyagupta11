@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 380" width="100%" height="100%">
-  <rect width="920" height="380" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 390" width="100%" height="100%">
+  <rect width="920" height="390" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
   
     <!-- SECTION HEADER: 05 THE ROUTE -->
     <text x="24" y="36" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="28" font-weight="900" fill="#000000" letter-spacing="1.5">05</text>
@@ -54,37 +54,38 @@
   <!-- Entry 1: 2026 Ghai Technologies -->
   <g transform="translate(24, 180)">
     <text x="0" y="14" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="11" font-weight="700" fill="#1a7f37">2026</text>
-    <line x1="48" y1="0" x2="48" y2="60" stroke="#d0d7de" stroke-width="1" />
+    <line x1="110" y1="0" x2="110" y2="64" stroke="#d0d7de" stroke-width="1" />
     
-    <text x="64" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2328">Ghai Technologies Private Limited • Software Development Intern</text>
-    <text x="64" y="30" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#57606a">Feb 2026 – Jul 2026 • Agile SDLC • Full-Stack Web &amp; API Integrations</text>
-    <text x="64" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">
+    <text x="130" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2328">Ghai Technologies Private Limited • Software Development Intern</text>
+    <text x="130" y="30" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#57606a">Feb 2026 – Jul 2026 • Agile SDLC • Full-Stack Web &amp; API Integrations</text>
+    <text x="130" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">
       • Developed 15+ responsive web pages and reusable UI components, improving usability and mobile responsiveness.
     </text>
-    <text x="64" y="60" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">
+    <text x="130" y="60" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">
       • Integrated 8+ RESTful APIs for OAuth authentication, memberships, and payments. Resolved 40+ UI/functional defects.
     </text>
-    <line x1="64" y1="72" x2="872" y2="72" stroke="#e1e4e8" stroke-width="0.6" />
+    <line x1="130" y1="72" x2="872" y2="72" stroke="#e1e4e8" stroke-width="0.6" />
   </g>
 
   <!-- Entry 2: 2023-2027 JECRC University -->
   <g transform="translate(24, 270)">
     <text x="0" y="14" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="11" font-weight="700" fill="#0969da">2023 – 2027</text>
-    <line x1="48" y1="0" x2="48" y2="50" stroke="#d0d7de" stroke-width="1" />
+    <line x1="110" y1="0" x2="110" y2="52" stroke="#d0d7de" stroke-width="1" />
     
-    <text x="64" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2328">JECRC University, Jaipur • B.Tech in Computer Science &amp; Engineering</text>
-    <text x="64" y="30" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#57606a">Specialization in AI &amp; ML • Cumulative GPA: 9.23 / 10.0</text>
-    <text x="64" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">
+    <text x="130" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2328">JECRC University, Jaipur • B.Tech in Computer Science &amp; Engineering</text>
+    <text x="130" y="30" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="9.5" fill="#57606a">Specialization in AI &amp; ML • Cumulative GPA: 9.23 / 10.0</text>
+    <text x="130" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">
       • Winner — CodeHunt (Ranked 1st of 25 teams) • Finalist — CodeAThon 1.0 (Top 10 of 500 participants).
     </text>
-    <line x1="64" y1="58" x2="872" y2="58" stroke="#e1e4e8" stroke-width="0.6" />
+    <line x1="130" y1="58" x2="872" y2="58" stroke="#e1e4e8" stroke-width="0.6" />
   </g>
 
   <!-- Entry 3: 2020-2022 Foundations -->
-  <g transform="translate(24, 342)">
+  <g transform="translate(24, 345)">
     <text x="0" y="14" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="11" font-weight="700" fill="#57606a">2020 – 2022</text>
-    <line x1="48" y1="0" x2="48" y2="24" stroke="#d0d7de" stroke-width="1" />
+    <line x1="110" y1="0" x2="110" y2="30" stroke="#d0d7de" stroke-width="1" />
     
-    <text x="64" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2328">Academic Foundations: Senior Secondary (SKSS • 77.20%) • Secondary School (LPS • 95.67%)</text>
+    <text x="130" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#1f2328">Academic Foundations • Secondary &amp; Senior Secondary Education</text>
+    <text x="130" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">Senior Secondary (SKSS • 77.20% • 2022) • Secondary School (LPS • 95.67% • 2020)</text>
   </g>
 </svg>
