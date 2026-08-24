@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="100%" height="100%">
+  <defs>
+    <linearGradient id="projBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+    <pattern id="cardGrid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M 16 0 L 0 0 0 16" fill="none" stroke="#21262d" stroke-width="0.5" stroke-opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <!-- Base Canvas -->
+  <rect width="900" height="280" rx="8" fill="url(#projBg)" stroke="#30363d" stroke-width="1.2" />
+
+  <!-- Top System Bar -->
+  <rect x="0" y="0" width="900" height="32" rx="8" fill="#161b22" />
+  <rect x="0" y="24" width="900" height="8" fill="#161b22" />
+  <line x1="0" y1="32" x2="900" y2="32" stroke="#30363d" stroke-width="1" />
+  <text x="24" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="1.5">03 // SELECTED WORK — ARCHITECTURE BLUEPRINTS</text>
+  <text x="876" y="21" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="10.5" fill="#58a6ff" letter-spacing="1">INDEX // 03 SYSTEMS</text>
+
+  <!-- Project 1: FutureMedia -->
+  <g transform="translate(24, 48)">
+    <rect width="268" height="212" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+    <rect width="268" height="212" rx="6" fill="url(#cardGrid)" />
+    <rect x="0" y="0" width="268" height="3" fill="#00d4ff" />
+    
+    <text x="16" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="10" font-weight="700" fill="#8b949e">PROJECT 01</text>
+    <text x="16" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="15" font-weight="800" fill="#f0f6fc">FutureMedia</text>
+    
+    <!-- Status Pill -->
+    <rect x="180" y="14" width="74" height="18" rx="3" fill="#00ff41" fill-opacity="0.1" stroke="#00ff41" stroke-width="0.8" />
+    <text x="217" y="26.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="8.5" font-weight="700" fill="#00ff41" letter-spacing="0.5">LIVE DEMO</text>
+
+    <text x="16" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="9.5" fill="#58a6ff">Full-Stack Media Platform</text>
+    <line x1="16" y1="76" x2="252" y2="76" stroke="#21262d" stroke-width="0.8" />
+
+    <text x="16" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="10" fill="#c9d1d9">▸ 5 Docker Containerized Services</text>
+    <text x="16" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="10" fill="#c9d1d9">▸ Redis + BullMQ Async Queues</text>
+    <text x="16" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="10" fill="#c9d1d9">▸ Socket.io Real-Time Messaging</text>
+    <text x="16" y="156" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="10" fill="#c9d1d9">▸ 40+ REST APIs · JWT Security</text>
+
+    <rect x="16" y="174" width="236" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.8" />
+    <text x="24" y="189" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="8.5" fill="#8b949e">React · Node · Redis · Docker · Mongo</text>
+  </g>
+
+  <!-- Project 2: ScholrBoard -->
+  <g transform="translate(316, 48)">
+    <rect width="268" height="212" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+    <rect width="268" height="212" rx="6" fill="url(#cardGrid)" />
+    <rect x="0" y="0" width="268" height="3" fill="#238636" />
+    
+    <text x="16" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="10" font-weight="700" fill="#8b949e">PROJECT 02</text>
+    <text x="16" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="15" font-weight="800" fill="#f0f6fc">ScholrBoard</text>
+    
+    <!-- Status Pill -->
+    <rect x="180" y="14" width="74" height="18" rx="3" fill="#00ff41" fill-opacity="0.1" stroke="#00ff41" stroke-width="0.8" />
+    <text x="217" y="26.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="8.5" font-weight="700" fill="#00ff41" letter-spacing="0.5">LIVE DEMO</text>
+
+    <text x="16" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="9.5" fill="#58a6ff">Academic &amp; Placement System</text>
+    <line x1="16" y1="76" x2="252" y2="76" stroke="#21262d" stroke-width="0.8" />
+
+    <text x="16" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="10" fill="#c9d1d9">▸ 4 Roles &amp; Multi-Dashboards</text>
+    <text x="16" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="10" fill="#c9d1d9">▸ 6-Pipeline Approval Ecosystem</text>
+    <text x="16" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="10" fill="#c9d1d9">▸ Track Personalization Engine</text>
+    <text x="16" y="156" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="10" fill="#c9d1d9">▸ 40+ Secured REST API Endpoints</text>
+
+    <rect x="16" y="174" width="236" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.8" />
+    <text x="24" y="189" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="8.5" fill="#8b949e">React · Node · Express · MongoDB Atlas</text>
+  </g>
+
+  <!-- Project 3: CogniFlow -->
+  <g transform="translate(608, 48)">
+    <rect width="268" height="212" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+    <rect width="268" height="212" rx="6" fill="url(#cardGrid)" />
+    <rect x="0" y="0" width="268" height="3" fill="#bf5fff" />
+    
+    <text x="16" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="10" font-weight="700" fill="#8b949e">PROJECT 03</text>
+    <text x="16" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="15" font-weight="800" fill="#f0f6fc">CogniFlow</text>
+    
+    <!-- Status Pill -->
+    <rect x="174" y="14" width="80" height="18" rx="3" fill="#bf5fff" fill-opacity="0.1" stroke="#bf5fff" stroke-width="0.8" />
+    <text x="214" y="26.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="8.5" font-weight="700" fill="#bf5fff" letter-spacing="0.5">OPEN SOURCE</text>
+
+    <text x="16" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="9.5" fill="#58a6ff">Multi-Agent RAG Assistant</text>
+    <line x1="16" y1="76" x2="252" y2="76" stroke="#21262d" stroke-width="0.8" />
+
+    <text x="16" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="10" fill="#c9d1d9">▸ 5 Cooperating Agent Pipelines</text>
+    <text x="16" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="10" fill="#c9d1d9">▸ TF-IDF + MMR Context Retrieval</text>
+    <text x="16" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="10" fill="#c9d1d9">▸ Reranking &amp; Fact Verification</text>
+    <text x="16" y="156" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="10" fill="#c9d1d9">▸ Configurable LLMs (Ollama/APIs)</text>
+
+    <rect x="16" y="174" width="236" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.8" />
+    <text x="24" y="189" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="8.5" fill="#8b949e">Next.js · TypeScript · RAG · Ollama · Zod</text>
+  </g>
+</svg>

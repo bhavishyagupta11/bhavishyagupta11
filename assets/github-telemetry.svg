@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 140" width="100%" height="100%">
+  <defs>
+    <linearGradient id="telBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+  </defs>
+
+  <!-- Base Card -->
+  <rect width="900" height="140" rx="8" fill="url(#telBg)" stroke="#30363d" stroke-width="1.2" />
+
+  <!-- Top Bar -->
+  <rect x="0" y="0" width="900" height="30" rx="8" fill="#161b22" />
+  <rect x="0" y="22" width="900" height="8" fill="#161b22" />
+  <line x1="0" y1="30" x2="900" y2="30" stroke="#30363d" stroke-width="1" />
+  <text x="20" y="20" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="1.5">06 // REPOSITORY ECOSYSTEM &amp; LANGUAGE DISTRIBUTION</text>
+  <text x="880" y="20" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="10.5" fill="#58a6ff" letter-spacing="1">@bhavishyagupta11</text>
+
+  <!-- Language Distribution Bar -->
+  <g transform="translate(24, 52)">
+    <rect width="852" height="10" rx="5" fill="#21262d" />
+    <!-- JS: 38% = 323.76 -->
+    <rect x="0" width="324" height="10" rx="5" fill="#f1e05a" />
+    <!-- TS: 26% = 221.52 -->
+    <rect x="324" width="222" height="10" fill="#3178c6" />
+    <!-- C++: 18% = 153.36 -->
+    <rect x="546" width="154" height="10" fill="#f34b7d" />
+    <!-- Python: 12% = 102.24 -->
+    <rect x="700" width="102" height="10" fill="#3572A5" />
+    <!-- Other: 6% = 50.4 -->
+    <rect x="802" width="50" height="10" rx="5" fill="#58a6ff" />
+  </g>
+
+  <!-- Language Legend -->
+  <g transform="translate(24, 88)">
+    <!-- JavaScript -->
+    <circle cx="6" cy="6" r="5" fill="#f1e05a" />
+    <text x="18" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="11" font-weight="600" fill="#f0f6fc">JavaScript</text>
+    <text x="96" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="10.5" fill="#8b949e">38%</text>
+
+    <!-- TypeScript -->
+    <circle cx="160" cy="6" r="5" fill="#3178c6" />
+    <text x="172" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="11" font-weight="600" fill="#f0f6fc">TypeScript</text>
+    <text x="250" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="10.5" fill="#8b949e">26%</text>
+
+    <!-- C++ -->
+    <circle cx="314" cy="6" r="5" fill="#f34b7d" />
+    <text x="326" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="11" font-weight="600" fill="#f0f6fc">C++</text>
+    <text x="362" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="10.5" fill="#8b949e">18%</text>
+
+    <!-- Python -->
+    <circle cx="426" cy="6" r="5" fill="#3572A5" />
+    <text x="438" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="11" font-weight="600" fill="#f0f6fc">Python</text>
+    <text x="492" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="10.5" fill="#8b949e">12%</text>
+
+    <!-- Other -->
+    <circle cx="556" cy="6" r="5" fill="#58a6ff" />
+    <text x="568" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="11" font-weight="600" fill="#f0f6fc">HTML / CSS / SQL</text>
+    <text x="696" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Mono', monospace" font-size="10.5" fill="#8b949e">6%</text>
+  </g>
+
+  <!-- Subtitle -->
+  <text x="24" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="10" fill="#8b949e">
+    Core focus: Full-Stack Platforms, Multi-Agent RAG Systems, RESTful APIs, and Algorithmic Implementations.
+  </text>
+</svg>
