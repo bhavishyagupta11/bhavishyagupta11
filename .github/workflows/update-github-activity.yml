@@ -1,0 +1,50 @@
+name: Update GitHub Contribution Graph
+
+on:
+  schedule:
+    # Runs daily at 00:00 UTC (every 24 hours)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Contribution Telemetry Updater
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_github_activity.py
+
+      - name: Scope Protection Check & Safe Commit
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Strict Scope Protection: Ensure ONLY the 2 activity SVGs can be modified
+          UNRELATED_CHANGES=$(git status --porcelain | grep -v 'assets/dark/05b-activity-graph.svg' | grep -v 'assets/light/05b-activity-graph.svg' || true)
+          if [[ -n "$UNRELATED_CHANGES" ]]; then
+            echo "CRITICAL SAFETY ABORT: Detected unexpected modifications outside the activity graphs:"
+            echo "$UNRELATED_CHANGES"
+            exit 1
+          fi
+
+          # Check if the activity graphs actually changed
+          if [[ -n $(git status --porcelain assets/dark/05b-activity-graph.svg assets/light/05b-activity-graph.svg) ]]; then
+            git add assets/dark/05b-activity-graph.svg assets/light/05b-activity-graph.svg
+            git commit -m "chore: update GitHub contribution graph [skip ci]"
+            git push
+            echo "SUCCESS: Updated contribution graphs committed and pushed."
+          else
+            echo "NO-OP: Generated activity graphs are identical to existing assets. No commit needed."
+          fi

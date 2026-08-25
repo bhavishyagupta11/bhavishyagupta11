@@ -50,8 +50,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bhavishyagupta11&bg_color=0d1117&color=00d4ff&line=00d4ff&point=f0f6fc&area_color=00d4ff&area=true&hide_border=true&radius=4&custom_title=CONTRIBUTION%20TELEMETRY" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavishyagupta11&bg_color=ffffff&color=0969da&line=0969da&point=1f2328&area_color=0969da&area=true&hide_border=true&radius=4&custom_title=CONTRIBUTION%20TELEMETRY" width="100%" alt="GitHub Contribution Telemetry Graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/05b-activity-graph.svg" />
+  <img src="assets/light/05b-activity-graph.svg" width="100%" alt="GitHub Contribution Telemetry Graph" />
 </picture>
 
 </div>
