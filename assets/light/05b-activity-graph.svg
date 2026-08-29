@@ -12,10 +12,10 @@
   <text x="24" y="24" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="11" font-weight="700" fill="#1f2328" letter-spacing="1.5">CONTRIBUTION TELEMETRY</text>
   
   <circle cx="780" cy="20" r="3.5" fill="#1a7f37" />
-  <text x="896" y="24" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" font-weight="600" fill="#57606a" letter-spacing="1">LAST SYNCED: 2026-08-28 08:30 UTC</text>
+  <text x="896" y="24" text-anchor="end" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" font-weight="600" fill="#57606a" letter-spacing="1">LAST SYNCED: 2026-08-29 05:10 UTC</text>
 
   <!-- Subtitle with dynamic date window -->
-  <text x="24" y="40" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#57606a" letter-spacing="0.8">ACTIVITY WINDOW: 2026-07-30 → 2026-08-28 • 802 CONTRIBUTIONS IN PAST YEAR • @bhavishyagupta11</text>
+  <text x="24" y="40" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#57606a" letter-spacing="0.8">ACTIVITY WINDOW: 2026-07-31 → 2026-08-29 • 802 CONTRIBUTIONS IN PAST YEAR • @bhavishyagupta11</text>
 
   <!-- Y-Axis Title -->
   <text x="18" y="116" transform="rotate(-90 18 116)" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f" letter-spacing="1">Contributions</text>
@@ -36,83 +36,81 @@
         
 
   <!-- Filled Area Under Curve -->
-  <path d="M 70.0 159.9 C 81.2 159.9, 86.8 165.9, 97.9 165.9 C 109.1 165.9, 114.7 114.5, 125.9 114.5 C 137.0 114.5, 142.6 132.7, 153.8 132.7 C 165.0 132.7, 170.6 150.8, 181.7 150.8 C 192.9 150.8, 198.5 162.9, 209.7 162.9 C 220.8 162.9, 226.4 172.0, 237.6 172.0 C 248.8 172.0, 254.3 175.0, 265.5 175.0 C 276.7 175.0, 282.3 175.0, 293.4 175.0 C 304.6 175.0, 310.2 126.6, 321.4 126.6 C 332.6 126.6, 338.1 153.8, 349.3 153.8 C 360.5 153.8, 366.1 175.0, 377.2 175.0 C 388.4 175.0, 394.0 138.7, 405.2 138.7 C 416.3 138.7, 421.9 175.0, 433.1 175.0 C 444.3 175.0, 449.9 168.9, 461.0 168.9 C 472.2 168.9, 477.8 175.0, 489.0 175.0 C 500.1 175.0, 505.7 135.7, 516.9 135.7 C 528.1 135.7, 533.7 172.0, 544.8 172.0 C 556.0 172.0, 561.6 175.0, 572.8 175.0 C 583.9 175.0, 589.5 175.0, 600.7 175.0 C 611.9 175.0, 617.4 175.0, 628.6 175.0 C 639.8 175.0, 645.4 175.0, 656.6 175.0 C 667.7 175.0, 673.3 175.0, 684.5 175.0 C 695.7 175.0, 701.2 175.0, 712.4 175.0 C 723.6 175.0, 729.2 175.0, 740.3 175.0 C 751.5 175.0, 757.1 81.2, 768.3 81.2 C 779.4 81.2, 785.0 87.3, 796.2 87.3 C 807.4 87.3, 813.0 153.8, 824.1 153.8 C 835.3 153.8, 840.9 156.8, 852.1 156.8 C 863.2 156.8, 868.8 175.0, 880.0 175.0 L 880.0 175 L 70.0 175 Z" fill="url(#areaGrad_light)" />
+  <path d="M 70.0 165.9 C 81.2 165.9, 86.8 114.5, 97.9 114.5 C 109.1 114.5, 114.7 132.7, 125.9 132.7 C 137.0 132.7, 142.6 150.8, 153.8 150.8 C 165.0 150.8, 170.6 162.9, 181.7 162.9 C 192.9 162.9, 198.5 172.0, 209.7 172.0 C 220.8 172.0, 226.4 175.0, 237.6 175.0 C 248.8 175.0, 254.3 175.0, 265.5 175.0 C 276.7 175.0, 282.3 126.6, 293.4 126.6 C 304.6 126.6, 310.2 153.8, 321.4 153.8 C 332.6 153.8, 338.1 175.0, 349.3 175.0 C 360.5 175.0, 366.1 138.7, 377.2 138.7 C 388.4 138.7, 394.0 175.0, 405.2 175.0 C 416.3 175.0, 421.9 168.9, 433.1 168.9 C 444.3 168.9, 449.9 175.0, 461.0 175.0 C 472.2 175.0, 477.8 135.7, 489.0 135.7 C 500.1 135.7, 505.7 172.0, 516.9 172.0 C 528.1 172.0, 533.7 175.0, 544.8 175.0 C 556.0 175.0, 561.6 175.0, 572.8 175.0 C 583.9 175.0, 589.5 175.0, 600.7 175.0 C 611.9 175.0, 617.4 175.0, 628.6 175.0 C 639.8 175.0, 645.4 175.0, 656.6 175.0 C 667.7 175.0, 673.3 175.0, 684.5 175.0 C 695.7 175.0, 701.2 175.0, 712.4 175.0 C 723.6 175.0, 729.2 81.2, 740.3 81.2 C 751.5 81.2, 757.1 87.3, 768.3 87.3 C 779.4 87.3, 785.0 153.8, 796.2 153.8 C 807.4 153.8, 813.0 156.8, 824.1 156.8 C 835.3 156.8, 840.9 175.0, 852.1 175.0 C 863.2 175.0, 868.8 175.0, 880.0 175.0 L 880.0 175 L 70.0 175 Z" fill="url(#areaGrad_light)" />
 
   <!-- Main Curve Line -->
-  <path d="M 70.0 159.9 C 81.2 159.9, 86.8 165.9, 97.9 165.9 C 109.1 165.9, 114.7 114.5, 125.9 114.5 C 137.0 114.5, 142.6 132.7, 153.8 132.7 C 165.0 132.7, 170.6 150.8, 181.7 150.8 C 192.9 150.8, 198.5 162.9, 209.7 162.9 C 220.8 162.9, 226.4 172.0, 237.6 172.0 C 248.8 172.0, 254.3 175.0, 265.5 175.0 C 276.7 175.0, 282.3 175.0, 293.4 175.0 C 304.6 175.0, 310.2 126.6, 321.4 126.6 C 332.6 126.6, 338.1 153.8, 349.3 153.8 C 360.5 153.8, 366.1 175.0, 377.2 175.0 C 388.4 175.0, 394.0 138.7, 405.2 138.7 C 416.3 138.7, 421.9 175.0, 433.1 175.0 C 444.3 175.0, 449.9 168.9, 461.0 168.9 C 472.2 168.9, 477.8 175.0, 489.0 175.0 C 500.1 175.0, 505.7 135.7, 516.9 135.7 C 528.1 135.7, 533.7 172.0, 544.8 172.0 C 556.0 172.0, 561.6 175.0, 572.8 175.0 C 583.9 175.0, 589.5 175.0, 600.7 175.0 C 611.9 175.0, 617.4 175.0, 628.6 175.0 C 639.8 175.0, 645.4 175.0, 656.6 175.0 C 667.7 175.0, 673.3 175.0, 684.5 175.0 C 695.7 175.0, 701.2 175.0, 712.4 175.0 C 723.6 175.0, 729.2 175.0, 740.3 175.0 C 751.5 175.0, 757.1 81.2, 768.3 81.2 C 779.4 81.2, 785.0 87.3, 796.2 87.3 C 807.4 87.3, 813.0 153.8, 824.1 153.8 C 835.3 153.8, 840.9 156.8, 852.1 156.8 C 863.2 156.8, 868.8 175.0, 880.0 175.0" fill="none" stroke="#0969da" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 70.0 165.9 C 81.2 165.9, 86.8 114.5, 97.9 114.5 C 109.1 114.5, 114.7 132.7, 125.9 132.7 C 137.0 132.7, 142.6 150.8, 153.8 150.8 C 165.0 150.8, 170.6 162.9, 181.7 162.9 C 192.9 162.9, 198.5 172.0, 209.7 172.0 C 220.8 172.0, 226.4 175.0, 237.6 175.0 C 248.8 175.0, 254.3 175.0, 265.5 175.0 C 276.7 175.0, 282.3 126.6, 293.4 126.6 C 304.6 126.6, 310.2 153.8, 321.4 153.8 C 332.6 153.8, 338.1 175.0, 349.3 175.0 C 360.5 175.0, 366.1 138.7, 377.2 138.7 C 388.4 138.7, 394.0 175.0, 405.2 175.0 C 416.3 175.0, 421.9 168.9, 433.1 168.9 C 444.3 168.9, 449.9 175.0, 461.0 175.0 C 472.2 175.0, 477.8 135.7, 489.0 135.7 C 500.1 135.7, 505.7 172.0, 516.9 172.0 C 528.1 172.0, 533.7 175.0, 544.8 175.0 C 556.0 175.0, 561.6 175.0, 572.8 175.0 C 583.9 175.0, 589.5 175.0, 600.7 175.0 C 611.9 175.0, 617.4 175.0, 628.6 175.0 C 639.8 175.0, 645.4 175.0, 656.6 175.0 C 667.7 175.0, 673.3 175.0, 684.5 175.0 C 695.7 175.0, 701.2 175.0, 712.4 175.0 C 723.6 175.0, 729.2 81.2, 740.3 81.2 C 751.5 81.2, 757.1 87.3, 768.3 87.3 C 779.4 87.3, 785.0 153.8, 796.2 153.8 C 807.4 153.8, 813.0 156.8, 824.1 156.8 C 835.3 156.8, 840.9 175.0, 852.1 175.0 C 863.2 175.0, 868.8 175.0, 880.0 175.0" fill="none" stroke="#0969da" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
 
   <!-- Data Point Markers -->
   
-            <circle cx="70.0" cy="159.9" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
+            <circle cx="70.0" cy="165.9" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
             
-            <circle cx="97.9" cy="165.9" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
+            <circle cx="97.9" cy="114.5" r="3.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
             
-            <circle cx="125.9" cy="114.5" r="3.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
+            <circle cx="125.9" cy="132.7" r="3.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
             
-            <circle cx="153.8" cy="132.7" r="3.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
+            <circle cx="153.8" cy="150.8" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
             
-            <circle cx="181.7" cy="150.8" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
+            <circle cx="181.7" cy="162.9" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
             
-            <circle cx="209.7" cy="162.9" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
+            <circle cx="209.7" cy="172.0" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
             
-            <circle cx="237.6" cy="172.0" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
+            <circle cx="293.4" cy="126.6" r="3.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
             
-            <circle cx="321.4" cy="126.6" r="3.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
+            <circle cx="321.4" cy="153.8" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
             
-            <circle cx="349.3" cy="153.8" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
+            <circle cx="377.2" cy="138.7" r="3.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
             
-            <circle cx="405.2" cy="138.7" r="3.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
+            <circle cx="433.1" cy="168.9" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
             
-            <circle cx="461.0" cy="168.9" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
+            <circle cx="489.0" cy="135.7" r="3.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
             
-            <circle cx="516.9" cy="135.7" r="3.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
+            <circle cx="516.9" cy="172.0" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
             
-            <circle cx="544.8" cy="172.0" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
+            <circle cx="740.3" cy="81.2" r="3.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
             
-            <circle cx="768.3" cy="81.2" r="3.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
+            <circle cx="768.3" cy="87.3" r="3.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
             
-            <circle cx="796.2" cy="87.3" r="3.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
+            <circle cx="796.2" cy="153.8" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
             
-            <circle cx="824.1" cy="153.8" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
-            
-            <circle cx="852.1" cy="156.8" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
+            <circle cx="824.1" cy="156.8" r="2.5" fill="#0969da" stroke="#ffffff" stroke-width="1.2" />
             
 
   <!-- X-Axis Baseline & Ticks -->
   <line x1="70" y1="175" x2="880" y2="175" stroke="#d0d7de" stroke-width="1" />
   
         <line x1="70.0" y1="175" x2="70.0" y2="179" stroke="#d0d7de" stroke-width="0.8" />
-        <text x="70.0" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">30</text>
+        <text x="70.0" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">31</text>
         
         <line x1="153.8" y1="175" x2="153.8" y2="179" stroke="#d0d7de" stroke-width="0.8" />
-        <text x="153.8" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">02</text>
+        <text x="153.8" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">03</text>
         
         <line x1="237.6" y1="175" x2="237.6" y2="179" stroke="#d0d7de" stroke-width="0.8" />
-        <text x="237.6" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">05</text>
+        <text x="237.6" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">06</text>
         
         <line x1="321.4" y1="175" x2="321.4" y2="179" stroke="#d0d7de" stroke-width="0.8" />
-        <text x="321.4" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">08</text>
+        <text x="321.4" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">09</text>
         
         <line x1="405.2" y1="175" x2="405.2" y2="179" stroke="#d0d7de" stroke-width="0.8" />
-        <text x="405.2" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">11</text>
+        <text x="405.2" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">12</text>
         
         <line x1="489.0" y1="175" x2="489.0" y2="179" stroke="#d0d7de" stroke-width="0.8" />
-        <text x="489.0" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">14</text>
+        <text x="489.0" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">15</text>
         
         <line x1="572.8" y1="175" x2="572.8" y2="179" stroke="#d0d7de" stroke-width="0.8" />
-        <text x="572.8" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">17</text>
+        <text x="572.8" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">18</text>
         
         <line x1="656.6" y1="175" x2="656.6" y2="179" stroke="#d0d7de" stroke-width="0.8" />
-        <text x="656.6" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">20</text>
+        <text x="656.6" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">21</text>
         
         <line x1="740.3" y1="175" x2="740.3" y2="179" stroke="#d0d7de" stroke-width="0.8" />
-        <text x="740.3" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">23</text>
+        <text x="740.3" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">24</text>
         
         <line x1="824.1" y1="175" x2="824.1" y2="179" stroke="#d0d7de" stroke-width="0.8" />
-        <text x="824.1" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">26</text>
+        <text x="824.1" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">27</text>
         
         <line x1="880.0" y1="175" x2="880.0" y2="179" stroke="#d0d7de" stroke-width="0.8" />
-        <text x="880.0" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">28</text>
+        <text x="880.0" y="191" text-anchor="middle" font-family="'SF Pro Mono', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="8.5" fill="#8c959f">29</text>
         
 
   <!-- X-Axis Label -->
